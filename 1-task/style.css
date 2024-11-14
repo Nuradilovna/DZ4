@@ -1,0 +1,18 @@
+body {
+    height: 100vh;
+    display: flex;
+    justify-content:space-evenly;
+    align-items: center;
+}
+button {
+    border: none;
+    height: 200px;
+    width: 200px;
+    border-radius: 50%;
+    background-color: #d82fec;
+    color: #fff;
+    font-size: 100px;
+}
+span {
+    font-size: 200px;
+}
